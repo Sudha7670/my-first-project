@@ -1,2 +1,2 @@
-# my-first-github-project
+# my-first-project
 sample project for learning GitHub
